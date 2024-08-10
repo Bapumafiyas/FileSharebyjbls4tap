@@ -59,10 +59,10 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘᴀɪ!!\n\n» ᴍʏ ᴏᴡɴᴇʀ : @LeviAckerman1709"
+USER_REPLY_TEXT = "Official Backbencherskaadda !!\n\n» ᴍʏ ᴏᴡɴᴇʀ : @backbencheeks"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1737646273)
+ADMINS.append(7092346282)
 
 LOG_FILE_NAME = "logs.txt"
 
